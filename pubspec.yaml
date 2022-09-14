@@ -20,9 +20,9 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
+  uses-material-design: true
   assets:
     - fonts/
-  #  - images/a_dot_ham.jpeg
 
   fonts:
     - family: coo

@@ -1,0 +1,35 @@
+name: mypackage
+description: A new Flutter package.
+version: 0.0.2
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  english_words:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # assets:
+  #   - fonts/
+
+  # fonts:
+  #   - family: cookierun
+  #     fonts:
+  #       - asset: lib/fonts/coo.ttf
+
+  #   - family: centurygothic
+  #     fonts:
+  #       - asset: lib/fonts/cen.ttf
+
+  #   - family: eraserdust
+  #     fonts:
+  #       - asset: lib/fonts/EraserDust.ttf
